@@ -1,0 +1,17 @@
+body {
+    width: 60vw;
+    margin: auto;
+    background-color: #f3e6c9;
+    font-family: sans-serif;
+
+}
+
+#media {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+}
+
+img {
+    padding-left: 200px;
+}
